@@ -6,3 +6,20 @@ node package
 python latest
 chrome
 brave
+claude
+node 
+office work mail 
+ninite
+
+
+
+--Deployments--
+vercel
+render
+vultr
+
+
+
+
+
+
